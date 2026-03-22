@@ -2,7 +2,7 @@
 
 Welcome to a sleek, smooth, and highly interactive registration experience! This project isn't just a form; it's a demonstration of modern web aesthetics combined with robust front-end logic.
 
-![Preview](https://raw.githubusercontent.com/SANKAR3535/SignUp_Form/main/preview.png) *(Note: Add your actual preview image here!)*
+![Preview](https://sankar3535.github.io/SignUp_Form/) *(Note: Add your actual preview image here!)*
 
 ## 🚀 What makes this special?
 
